@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:111827&height=220&section=header&text=ELLYDA%20ALVES&fontSize=48&fontColor=00e5ff&animation=fadeIn&fontAlignY=35&desc=INFORMATION%20TECHNOLOGY%20STUDENT&descAlignY=58&descSize=16&descColor=94a3b8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:111827&height=220&section=header&text=EVILLYN%20ALVES&fontSize=48&fontColor=00e5ff&animation=fadeIn&fontAlignY=35&desc=INFORMATION%20TECHNOLOGY%20STUDENT&descAlignY=58&descSize=16&descColor=94a3b8"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Olá%2C+seja+bem-vindo(a)!;Estudante+de+Informática+%7C+IFPA;Aprendendo%2C+criando+e+evoluindo.;Construindo+meu+portfólio+em+tecnologia." />
 
