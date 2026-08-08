@@ -1,9 +1,9 @@
 ## Hi there 👋
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:111827&height=220&section=header&text=EVILLYN%20ALVES&fontSize=48&fontColor=00e5ff&animation=fadeIn&fontAlignY=35&desc=INFORMATION%20TECHNOLOGY%20STUDENT&descAlignY=58&descSize=16&descColor=94a3b8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:111827&height=220&section=header&text=EVILLYN%20ALVES&fontSize=48&fontColor=FF69B4&animation=fadeIn&fontAlignY=35&desc=INFORMATION%20TECHNOLOGY%20STUDENT&descAlignY=58&descSize=16&descColor=E6EDF3"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Olá%2C+seja+bem-vindo(a)!;Estudante+de+Informática+%7C+IFPA;Aprendendo%2C+criando+e+evoluindo.;Construindo+meu+portfólio+em+tecnologia." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=650&lines=Olá%2C+seja+bem-vindo(a)!;Estudante+de+Informática+%7C+IFPA;Aprendendo%2C+criando+e+evoluindo.;Construindo+meu+portfólio+em+tecnologia." />
 
 <br>
 
@@ -70,26 +70,24 @@
 
 ## `05 // GITHUB STATS`
 
+
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=evillyna19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=94A3B8"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=evillyna19&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=E6EDF3&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evillyna19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=94A3B8"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evillyna19&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=E6EDF3&langs_count=6"/>
 
 </div>
-
----
 
 ## `06 // CONTRIBUTIONS`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=evillyna19&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
+<img src="https://streak-stats.demolab.com?user=evillyna19&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=E6EDF3&currStreakNum=FF69B4&sideNums=FF69B4" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=evillyna19&bg_color=0D1117&color=94A3B8&line=00E5FF&point=FFFFFF&area=true&hide_border=true" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=evillyna19&bg_color=0D1117&color=E6EDF3&line=FF69B4&point=FFFFFF&area=true&hide_border=true&area_color=FF69B4" />
 </div>
 
 ---
