@@ -13,7 +13,7 @@
 
 ---
 
-## `01 // SOBRE MIM`
+## ` // SOBRE MIM`
 
 🎓 Estudante do **3º ano do Ensino Médio Integrado ao Técnico em Informática no IFPA**.
 
@@ -25,7 +25,7 @@
 
 ---
 
-## `02 // TECNOLOGIAS & FERRAMENTAS`
+## ` // TECNOLOGIAS & FERRAMENTAS`
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 
 ---
 
-## `03 // PROJETOS`
+## ` // PROJETOS`
 
 <div align="center">
 
@@ -51,14 +51,14 @@
 
 ---
 
-## `04 // OBJETIVOS`
+## `// OBJETIVOS`
 
 ```text
 ┌─────────────────────────────────────────┐
-│            CURRENT OBJECTIVES            │
+│            CURRENT OBJECTIVES           │
 ├─────────────────────────────────────────┤
 │ ✓ Construir meu portfólio               │
-│ ✓ Aprimorar Git e GitHub                 │
+│ ✓ Aprimorar Git e GitHub                │
 │ → Evoluir em programação                 │
 │ → Desenvolver novos projetos             │
 │ → Aprender novas tecnologias             │
@@ -68,18 +68,9 @@
 
 ---
 
-## `05 // GITHUB STATS`
 
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=evillyna19&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=E6EDF3&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evillyna19&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=E6EDF3&langs_count=6"/>
-
-</div>
-
-## `06 // CONTRIBUTIONS`
+## ` // CONTRIBUTIONS`
 
 <div align="center">
 
