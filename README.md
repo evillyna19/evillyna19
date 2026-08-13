@@ -45,6 +45,9 @@ md
 ---
 
 ## `03 // CURRENT OBJECTIVES`
+
+<div align="center">
+
 ```bash
 evillyn@github:~$ cat current_goals.txt
 
@@ -58,6 +61,7 @@ evillyn@github:~$ cat current_goals.txt
 evillyn@github:~$ echo "KEEP LEARNING."
 > KEEP LEARNING.
 ```
+
 
 </div>
 
