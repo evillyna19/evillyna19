@@ -1,15 +1,13 @@
-
+````md
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=220&section=header&text=EVILLYN%20ALVES&fontSize=48&fontColor=FF69B4&animation=fadeIn&fontAlignY=35&desc=INFORMATION%20TECHNOLOGY%20STUDENT&descAlignY=58&descSize=16&descColor=E6EDF3"/>
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:020617&height=220&section=header&text=EVILLYN%20ALVES&fontSize=48&fontColor=00e5ff&animation=fadeIn&fontAlignY=35&desc=INFORMATION%20TECHNOLOGY%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=58&descSize=16&descColor=94a3b8"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Initializing+developer+profile...;Welcome+to+my+digital+workspace.;Information+Technology+Student+%7C+IFPA;Building%2C+learning+and+evolving.;Turning+ideas+into+code." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=Initializing+developer+profile...;Welcome+to+my+digital+workspace.;Information+Technology+Student+%7C+IFPA;Building%2C+learning+and+evolving.;Turning+ideas+into+code." />
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&label=PROFILE%20VIEWS&color=00e5ff&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=evillyna19&label=PROFILE%20VIEWS&color=FF69B4&style=for-the-badge" />
 
 </div>
 
@@ -17,62 +15,36 @@
 
 ## `01 // SYSTEM PROFILE`
 
+<div align="center">
+
 > **STATUS:** `ONLINE`  
 > **ROLE:** `IT STUDENT`  
 > **ENVIRONMENT:** `IFPA`  
-> **MISSION:** `LEARN • BUILD • EVOLVE`
+> **FOCUS:** `SOFTWARE DEVELOPMENT`
 
-Olá! Eu sou **Ellyda Alves**, estudante do **3º ano do Ensino Médio Integrado ao Técnico em Informática no Instituto Federal do Pará (IFPA)**.
+</div>
 
-Tenho interesse por tecnologia e desenvolvimento de software e estou construindo, aos poucos, minha trajetória profissional na área de TI.
+### 👩‍💻 Sobre mim
 
-Atualmente, estou focada em fortalecer minha base de programação, desenvolvimento de projetos, Git e GitHub, além de explorar diferentes tecnologias e ferramentas.
-
-text
-┌──────────────────────────────────────────────┐
-│              DEVELOPER PROFILE               │
-├──────────────────────────────────────────────┤
-│ 🎓 Formação    → Técnico em Informática      │
-│ 🏫 Instituição → IFPA                        │
-│ 💻 Foco        → Desenvolvimento de Software │
-│ 🌱 Status      → Sempre aprendendo           │
-│ 🚀 Objetivo    → Evoluir na área de TI       │
-└──────────────────────────────────────────────┘
-
+- 🎓 Estudante do **3º ano do Ensino Médio Integrado ao Técnico em Informática no IFPA**.
+- 💻 Tenho interesse em **tecnologia e desenvolvimento de software**.
+- 🌱 Atualmente estou **aprendendo, praticando e desenvolvendo projetos** na área de TI.
+- 🧩 Utilizo este espaço para **registrar meus projetos e acompanhar minha evolução**.
+- 🚀 Meu objetivo é **crescer profissionalmente e continuar aprendendo na área de tecnologia**.
 
 ---
 
-## `02 // TECH STACK`
+## `02 // TOOLS & TECHNOLOGIES`
 
 <div align="center">
 
-### `LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js" />
-
-### `DATABASE & TOOLS`
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
 ---
 
-## `03 // TOOLKIT`
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge\&logo=visualstudiocode\&logoColor=007ACC)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge\&logo=linux\&logoColor=FCC624)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
-
-</div>
-
----
-
-## `04 // PROJECT_DATABASE`
+## `03 // PROJECT DATABASE`
 
 <div align="center">
 
@@ -85,11 +57,9 @@ text
 
 **Projeto em destaque**
 
-Descrição curta do projeto, seu objetivo e o problema que ele resolve.
+Projeto desenvolvido durante minha formação ou como parte do meu portfólio.
 
-`Python` `Git` `GitHub`
-
-[ ACCESS PROJECT → ]
+`Git` `GitHub`
 
 </td>
 
@@ -97,13 +67,11 @@ Descrição curta do projeto, seu objetivo e o problema que ele resolve.
 
 ### 🌐 `PROJECT_02`
 
-**Projeto Web**
+**Projeto em desenvolvimento**
 
-Descrição curta explicando a proposta, funcionalidades e tecnologias utilizadas.
+Projeto criado para colocar meus conhecimentos em prática.
 
-`HTML` `CSS` `JavaScript`
-
-[ ACCESS PROJECT → ]
+`Git` `GitHub`
 
 </td>
 
@@ -113,29 +81,25 @@ Descrição curta explicando a proposta, funcionalidades e tecnologias utilizada
 
 <td width="50%" valign="top">
 
-### 🗄️ `PROJECT_03`
+### ⚙️ `PROJECT_03`
 
-**Banco de Dados**
+**Projeto acadêmico**
 
-Projeto desenvolvido para praticar modelagem, consultas e gerenciamento de dados.
+Projeto desenvolvido durante minha formação técnica em Informática.
 
-`SQL` `MySQL`
-
-[ ACCESS PROJECT → ]
+`Git` `GitHub`
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚙️ `PROJECT_04`
+### 🚀 `PROJECT_04`
 
-**Projeto em desenvolvimento**
+**Em breve...**
 
-Um projeto que representa minha evolução atual na área de programação.
+Novos projetos serão adicionados conforme minha jornada na programação evolui.
 
-`Java` `Git`
-
-[ ACCESS PROJECT → ]
+`Coming Soon`
 
 </td>
 
@@ -144,96 +108,84 @@ Um projeto que representa minha evolução atual na área de programação.
 
 </div>
 
-> 💡 **Nota:** os projetos acima são modelos. Substitua pelos seus repositórios reais conforme seu portfólio crescer.
-
 ---
 
-## `05 // CURRENT_OBJECTIVES`
+## `04 // CURRENT OBJECTIVES`
 
+```bash
+evillyn@github:~$ ./current_goals.sh
 
-ellyda@github:~$ ./current_goals.sh
-
-[✓] Construir um portfólio profissional
+[✓] Construir meu portfólio
 [✓] Aprimorar Git & GitHub
 [~] Evoluir em programação
-[~] Desenvolver projetos autorais
-[~] Aprimorar conhecimentos em banco de dados
+[~] Desenvolver novos projetos
 [~] Explorar novas tecnologias
-[ ] Contribuir para projetos open source
-[ ] Continuar minha evolução profissional em TI
+[~] Crescer na área de TI
 
-ellyda@github:~$ echo "KEEP BUILDING."
-> KEEP BUILDING.
-
+evillyn@github:~$ echo "KEEP LEARNING."
+> KEEP LEARNING.
+````
 
 ---
 
-## `06 // GITHUB_ANALYTICS`
+## `05 // GITHUB ANALYTICS`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=94A3B8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evillyna19&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=E6EDF3" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=94A3B8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evillyna19&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=E6EDF3" />
 
 </div>
 
 ---
 
-## `07 // CONTRIBUTION_STREAK`
+## `06 // CONTRIBUTION STREAK`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
+<img src="https://streak-stats.demolab.com?user=evillyna19&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=E6EDF3&currStreakNum=FF69B4&sideNums=FF69B4" />
 
 </div>
 
 ---
 
-## `08 // ACTIVITY_GRAPH`
+## `07 // ACTIVITY GRAPH`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=94A3B8&line=00E5FF&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=evillyna19&bg_color=0D1117&color=E6EDF3&line=FF69B4&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-## `09 // TROPHIES`
+## `08 // GITHUB TROPHIES`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=evillyna19&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
 ---
 
-## `10 // CONTRIBUTION_MATRIX`
+## `09 // CONTRIBUTION SNAKE`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/evillyna19/evillyna19/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
 ---
 
-## `11 // CONNECT`
+## `10 // CONNECT`
 
 <div align="center">
 
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<a href="https://github.com/evillyna19">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF69B4" />
 </a>
 
 </div>
@@ -242,13 +194,9 @@ ellyda@github:~$ echo "KEEP BUILDING."
 
 <div align="center">
 
-### `> END_OF_TRANSMISSION`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=120&section=footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=120&section=footer&animation=fadeIn"/>
-
-**"Learning today. Building tomorrow."**
-
-`© 2026 Ellyda Alves • All systems operational.`
+### `> KEEP LEARNING. KEEP BUILDING.`
 
 </div>
 ```
