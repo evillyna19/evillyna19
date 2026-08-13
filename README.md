@@ -51,12 +51,12 @@ md
 
 evillyn@github:~$ cat current_goals.txt
 
-> Construir meu portfólio
-> Aprimorar Git & GitHub
-> Evoluir em programação
-> Desenvolver novos projetos
-> Explorar novas tecnologias
-> Crescer na área de TI
+> Construir meu portfólio**
+> Aprimorar Git & GitHub**
+> Evoluir em programação**
+> Desenvolver novos projetos**
+> Explorar novas tecnologias**
+> Crescer na área de TI**
 
 
 
