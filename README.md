@@ -1,4 +1,4 @@
-
+````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=220&section=header&text=EVILLYN%20ALVES&fontSize=48&fontColor=FF69B4&animation=fadeIn&fontAlignY=35&desc=INFORMATION%20TECHNOLOGY%20STUDENT&descAlignY=58&descSize=16&descColor=E6EDF3"/>
@@ -40,78 +40,15 @@
 
 <img src="https://skillicons.dev/icons?i=java,python,mysql,github,linux" />
 
-</div> 
----
-
-## `03 // PROJECT DATABASE`
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 💻 `PROJECT_01`
-
-**Projeto em destaque**
-
-Projeto desenvolvido durante minha formação ou como parte do meu portfólio.
-
-`Git` `GitHub`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 `PROJECT_02`
-
-**Projeto em desenvolvimento**
-
-Projeto criado para colocar meus conhecimentos em prática.
-
-`Git` `GitHub`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚙️ `PROJECT_03`
-
-**Projeto acadêmico**
-
-Projeto desenvolvido durante minha formação técnica em Informática.
-
-`Git` `GitHub`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 `PROJECT_04`
-
-**Em breve...**
-
-Novos projetos serão adicionados conforme minha jornada na programação evolui.
-
-`Coming Soon`
-
-</td>
-
-</tr>
-</table>
-
 </div>
 
 ---
 
-## `04 // CURRENT OBJECTIVES`
+## `03 // CURRENT OBJECTIVES`
 
+<div align="center">
 
+```bash
 evillyn@github:~$ ./current_goals.sh
 
 [✓] Construir meu portfólio
@@ -123,11 +60,13 @@ evillyn@github:~$ ./current_goals.sh
 
 evillyn@github:~$ echo "KEEP LEARNING."
 > KEEP LEARNING.
+````
 
+</div>
 
 ---
 
-## `05 // GITHUB ANALYTICS`
+## `04 // GITHUB ANALYTICS`
 
 <div align="center">
 
@@ -139,7 +78,7 @@ evillyn@github:~$ echo "KEEP LEARNING."
 
 ---
 
-## `06 // CONTRIBUTION STREAK`
+## `05 // CONTRIBUTION STREAK`
 
 <div align="center">
 
@@ -149,7 +88,7 @@ evillyn@github:~$ echo "KEEP LEARNING."
 
 ---
 
-## `07 // ACTIVITY GRAPH`
+## `06 // ACTIVITY GRAPH`
 
 <div align="center">
 
@@ -159,7 +98,7 @@ evillyn@github:~$ echo "KEEP LEARNING."
 
 ---
 
-## `08 // GITHUB TROPHIES`
+## `07 // GITHUB TROPHIES`
 
 <div align="center">
 
@@ -169,7 +108,7 @@ evillyn@github:~$ echo "KEEP LEARNING."
 
 ---
 
-## `09 // CONTRIBUTION SNAKE`
+## `08 // CONTRIBUTION SNAKE`
 
 <div align="center">
 
@@ -179,7 +118,7 @@ evillyn@github:~$ echo "KEEP LEARNING."
 
 ---
 
-## `10 // CONNECT`
+## `09 // CONNECT`
 
 <div align="center">
 
@@ -198,4 +137,4 @@ evillyn@github:~$ echo "KEEP LEARNING."
 ### `> KEEP LEARNING. KEEP BUILDING.`
 
 </div>
-
+```
