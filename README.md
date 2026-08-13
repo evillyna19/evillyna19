@@ -38,10 +38,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,github,linux" />
 
 </div>
-
 ---
 
 ## `03 // PROJECT DATABASE`
