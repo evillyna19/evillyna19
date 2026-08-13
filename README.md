@@ -48,7 +48,7 @@ md
 
 <div align="center">
 
-bash
+
 evillyn@github:~$ cat current_goals.txt
 
 > Construir meu portfólio
