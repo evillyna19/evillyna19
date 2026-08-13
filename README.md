@@ -73,9 +73,9 @@ KEEP LEARNING. KEEP BUILDING.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evillyna19&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=E6EDF3"/>
+<img height="180em" src="./profile/stats.svg" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evillyna19&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=E6EDF3"/>
+<img height="180em" src="./profile/top-langs.svg" />
 
 </div>
 
