@@ -48,7 +48,7 @@ md
 
 evillyn@github:~$ cat current_goals.txt
 
-> Construir meu portfólio.**
+> **Construir meu portfólio.**
 > Aprimorar Git & GitHub.**
 > Evoluir em programação.
 > Desenvolver novos projetos.
