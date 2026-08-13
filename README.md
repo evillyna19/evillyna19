@@ -58,7 +58,7 @@ evillyn@github:~$ cat current_goals.txt
 > Explorar novas tecnologias
 > Crescer na área de TI
 
-evillyn@github:~$ echo "KEEP LEARNING."
+
 
 
 
