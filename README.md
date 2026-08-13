@@ -76,7 +76,7 @@ evillyn@github:~$ cat current_goals.txt
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evillyna19&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=E6EDF3" />
 
-</div>
+</div> 
 
 ---
 
