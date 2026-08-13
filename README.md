@@ -45,7 +45,7 @@ md
 ---
 
 ## `03 // CURRENT OBJECTIVES`
-bash
+```bash
 evillyn@github:~$ cat current_goals.txt
 
 > Construir meu portfólio
@@ -57,6 +57,7 @@ evillyn@github:~$ cat current_goals.txt
 
 evillyn@github:~$ echo "KEEP LEARNING."
 > KEEP LEARNING.
+```
 
 </div>
 
