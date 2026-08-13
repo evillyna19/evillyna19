@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# > SYSTEM.INIT`
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:020617&height=220&section=header&text=ELLYDA%20ALVES&fontSize=48&fontColor=00e5ff&animation=fadeIn&fontAlignY=35&desc=INFORMATION%20TECHNOLOGY%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=58&descSize=16&descColor=94a3b8"/>
 
