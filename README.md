@@ -46,17 +46,14 @@ md
 
 ## `03 // CURRENT OBJECTIVES`
 
-<div align="center">
+evillyn@github:~$ cat current_goals.txt
 
-
-evillyn@github:~$ ./current_goals.sh
-
-[] Construir meu portfólio
-[] Aprimorar Git & GitHub
-[] Evoluir em programação
-[] Desenvolver novos projetos
-[] Explorar novas tecnologias
-[] Crescer na área de TI
+> Construir meu portfólio
+> Aprimorar Git & GitHub
+> Evoluir em programação
+> Desenvolver novos projetos
+> Explorar novas tecnologias
+> Crescer na área de TI
 
 evillyn@github:~$ echo "KEEP LEARNING."
 > KEEP LEARNING.
