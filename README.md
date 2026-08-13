@@ -40,7 +40,7 @@
 
 <img src="https://skillicons.dev/icons?i=java,python,mysql,github,linux" />
 
-</div>
+</div> 
 ---
 
 ## `03 // PROJECT DATABASE`
