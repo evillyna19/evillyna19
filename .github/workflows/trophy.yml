@@ -20,11 +20,8 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: evillyna19
-          output_path: ./trophy.svg
+          file: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Move trophy to profile
-        run: mv trophy.svg profile/trophy.svg
 
       - name: Commit trophy
         run: |
