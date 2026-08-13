@@ -44,41 +44,40 @@ md
 
 ---
 
+---
+
 ## `03 // CURRENT OBJECTIVES`
 
 <div align="center">
 
-
+<pre>
 evillyn@github:~$ cat current_goals.txt
 
-> Construir meu portfólio**
-> Aprimorar Git & GitHub**
-> Evoluir em programação**
-> Desenvolver novos projetos**
-> Explorar novas tecnologias**
-> Crescer na área de TI**
+&gt; Construir meu portfólio
+&gt; Aprimorar Git &amp; GitHub
+&gt; Evoluir em programação
+&gt; Desenvolver novos projetos
+&gt; Explorar novas tecnologias
+&gt; Crescer na área de TI
 
+evillyn@github:~$ echo "KEEP LEARNING. KEEP BUILDING."
 
-
-
-
+KEEP LEARNING. KEEP BUILDING.
+</pre>
 
 </div>
 
 ---
 
-
 ## `04 // GITHUB ANALYTICS`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evillyna19&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=E6EDF3" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evillyna19&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=E6EDF3"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evillyna19&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=E6EDF3" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evillyna19&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=E6EDF3"/>
 
-</div> 
-
----
+</div>
 
 ## `05 // CONTRIBUTION STREAK`
 
