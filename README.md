@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 # `> SYSTEM.INIT`
@@ -28,7 +28,7 @@ Tenho interesse por tecnologia e desenvolvimento de software e estou construindo
 
 Atualmente, estou focada em fortalecer minha base de programação, desenvolvimento de projetos, Git e GitHub, além de explorar diferentes tecnologias e ferramentas.
 
-```text
+text
 ┌──────────────────────────────────────────────┐
 │              DEVELOPER PROFILE               │
 ├──────────────────────────────────────────────┤
