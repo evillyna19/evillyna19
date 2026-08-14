@@ -111,32 +111,40 @@ KEEP LEARNING. KEEP BUILDING.
 ```text
 ╭──────────────────────────────╮
 │                              │
-│        ♡ GAME OVER ♡         │
+│        ♡ GAME OVER ♡         │  
 │                              │
-│     ✦  THANKS FOR PLAYING  ✦ │
+│   ✦  THANKS FOR PLAYING  ✦  │
 │                              │
-│          ₍ᐢ. .ᐢ₎            │
+│          ₍ᐢ. .ᐢ₎              │
 │          / >♡ <\             │
 │                              │
 ╰──────────────────────────────╯
 
-## `09 // CONNECT`
+
+## `09 // CONNECT` 🎀
 
 <div align="center">
 
 <a href="https://github.com/evillyna19">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF69B4" />
+<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<a href="https://www.linkedin.com/in/evillyn-alves-da-silva-27aa17427">
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/evy._.a">
+<img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br><br>
+
+♡ <b>LET'S CONNECT</b> ♡
+
+<br>
+
+<sub>Keep learning · Keep building · Keep growing 🌷</sub>
 
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=120&section=footer"/>
-
-### `> KEEP LEARNING. KEEP BUILDING.`
-
-</div>
-```
