@@ -13,7 +13,7 @@
 
 ---
 
-## `01 // SYSTEM PROFILE`
+## `SYSTEM PROFILE`
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 
 ---
 
-## `02 // TOOLS & TECHNOLOGIES`
+## `TOOLS & TECHNOLOGIES`
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 
 ---
 
-## `03 // CURRENT OBJECTIVES`
+## `CURRENT OBJECTIVES`
 
 <div align="center">
 
@@ -69,7 +69,7 @@ KEEP LEARNING. KEEP BUILDING.
 
 ---
 
-## `04 // GITHUB ANALYTICS`
+## `GITHUB ANALYTICS`
 
 <div align="center">
 
@@ -79,7 +79,7 @@ KEEP LEARNING. KEEP BUILDING.
 
 </div>
 
-## `05 // CONTRIBUTION STREAK`
+## `CONTRIBUTION STREAK`
 
 <div align="center">
 
@@ -89,7 +89,7 @@ KEEP LEARNING. KEEP BUILDING.
 
 ---
 
-## `06 // ACTIVITY GRAPH`
+## `ACTIVITY GRAPH`
 
 <div align="center">
 
@@ -98,13 +98,13 @@ KEEP LEARNING. KEEP BUILDING.
 </div>
 
 ---
-## `07 // LITTLE ACHIEVEMENTS` 🌷
+## `LITTLE ACHIEVEMENTS` 🌷
 
 ♡ **Learning** → GitHub  
 ♡ **Building** → My professional portfolio  
 ♡ **Exploring** → New technologies  
 ♡ **Growing** → Programming skills
-## `08 // GAME OVER` 🎀
+## `GAME OVER` 🎀
 
 <div align="center">
 
@@ -122,7 +122,7 @@ KEEP LEARNING. KEEP BUILDING.
 
 ---
 
-## `09 // CONNECT` 🎀
+## `CONNECT` 🎀
 
 <div align="center">
 
