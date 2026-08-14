@@ -108,7 +108,6 @@ KEEP LEARNING. KEEP BUILDING.
 
 <div align="center">
 
-```text
 ╭──────────────────────────────╮
 │                              │
 │        ♡ GAME OVER ♡         │  
@@ -119,7 +118,7 @@ KEEP LEARNING. KEEP BUILDING.
 │          / >♡ <\             │
 │                              │
 ╰──────────────────────────────╯
-
+---
 
 ## `09 // CONNECT` 🎀
 
