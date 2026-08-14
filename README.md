@@ -119,6 +119,9 @@ KEEP LEARNING. KEEP BUILDING.
 │                              │
 ╰──────────────────────────────╯
 </div>
+
+---
+
 ## `09 // CONNECT` 🎀
 
 <div align="center">
