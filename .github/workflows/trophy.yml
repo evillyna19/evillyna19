@@ -13,13 +13,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Test GitHub API
-        run: |
-          curl -sS \
-            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-            -H "Accept: application/vnd.github+json" \
-            https://api.github.com/users/evillyna19
-
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
