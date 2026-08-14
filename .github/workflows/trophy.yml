@@ -1,10 +1,7 @@
 name: Update GitHub Trophies
 
 on:
-  schedule:
-    - cron: "0 4 * * *"
   workflow_dispatch:
-
 jobs:
   trophy:
     runs-on: ubuntu-latest
