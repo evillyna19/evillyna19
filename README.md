@@ -98,16 +98,12 @@ KEEP LEARNING. KEEP BUILDING.
 </div>
 
 ---
+## `07 // LITTLE ACHIEVEMENTS` 🌷
 
-## `07 // GITHUB TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=evillyna19&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
+♡ **Learning** → Git & GitHub  
+♡ **Building** → My professional portfolio  
+♡ **Exploring** → New technologies  
+♡ **Growing** → Programming skills
 
 ## `08 // CONTRIBUTION SNAKE`
 
