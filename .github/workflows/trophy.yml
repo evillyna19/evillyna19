@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate trophy
-       uses: ryo-ma/github-profile-trophy@v1
+        uses:  ryo-ma/github-profile-trophy@v1
         with:
           username: evillyna19
           file: profile/trophy.svg
