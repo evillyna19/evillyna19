@@ -100,7 +100,7 @@ KEEP LEARNING. KEEP BUILDING.
 ---
 ## `07 // LITTLE ACHIEVEMENTS` 🌷
 
-♡ **Learning** → Git & GitHub  
+♡ **Learning** → GitHub  
 ♡ **Building** → My professional portfolio  
 ♡ **Exploring** → New technologies  
 ♡ **Growing** → Programming skills
