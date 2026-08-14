@@ -1,4 +1,4 @@
-────୨ৎ──── ˚.🎀༘⋆.🍥⋆🐇་༘🌷.ೃ࿔────୨ৎ────
+                                          ────୨ৎ──── ˚.🎀༘⋆.🍥⋆🐇་༘🌷.ೃ࿔────୨ৎ────
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=220&section=header&text=EVILLYN%20ALVES&fontSize=48&fontColor=FF69B4&animation=fadeIn&fontAlignY=35&desc=INFORMATION%20TECHNOLOGY%20STUDENT&descAlignY=58&descSize=16&descColor=E6EDF3"/>
