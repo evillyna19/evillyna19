@@ -104,15 +104,21 @@ KEEP LEARNING. KEEP BUILDING.
 ♡ **Building** → My professional portfolio  
 ♡ **Exploring** → New technologies  
 ♡ **Growing** → Programming skills
-
-## `08 // CONTRIBUTION SNAKE`
+## `08 // GAME OVER` 🎀
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/evillyna19/evillyna19/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
----
+```text
+╭──────────────────────────────╮
+│                              │
+│        ♡ GAME OVER ♡         │
+│                              │
+│     ✦  THANKS FOR PLAYING  ✦ │
+│                              │
+│          ₍ᐢ. .ᐢ₎            │
+│          / >♡ <\             │
+│                              │
+╰──────────────────────────────╯
 
 ## `09 // CONNECT`
 
