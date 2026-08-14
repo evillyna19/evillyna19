@@ -28,7 +28,7 @@ jobs:
         with:
           username: evillyna19
           file: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ github.token }}
 
       - name: Commit trophy
         run: |
